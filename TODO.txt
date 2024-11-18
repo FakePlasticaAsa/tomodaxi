@@ -1,0 +1,2 @@
+4. Hacer una sección de tienda con botones. Encima de un objeto puedes comprarlo y debajo usarlo. Se guardan cuantos
+objetos tienes en una variable y restauran buenas stats.
